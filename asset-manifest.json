@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/questionnaire/static/css/main.ce8130e9.css",
+    "main.js": "/questionnaire/static/js/main.7057846f.js",
+    "static/css/280.39f51b74.chunk.css": "/questionnaire/static/css/280.39f51b74.chunk.css",
+    "static/js/280.df77dbaa.chunk.js": "/questionnaire/static/js/280.df77dbaa.chunk.js",
+    "static/css/980.ad0626a0.chunk.css": "/questionnaire/static/css/980.ad0626a0.chunk.css",
+    "static/js/980.2304ae24.chunk.js": "/questionnaire/static/js/980.2304ae24.chunk.js",
+    "static/js/453.687bfe29.chunk.js": "/questionnaire/static/js/453.687bfe29.chunk.js",
+    "static/js/705.ea259f8e.chunk.js": "/questionnaire/static/js/705.ea259f8e.chunk.js",
+    "static/js/325.573bb5a2.js": "/questionnaire/static/js/325.573bb5a2.js",
+    "static/js/572.ff01bbdd.chunk.js": "/questionnaire/static/js/572.ff01bbdd.chunk.js",
+    "index.html": "/questionnaire/index.html",
+    "main.ce8130e9.css.map": "/questionnaire/static/css/main.ce8130e9.css.map",
+    "main.7057846f.js.map": "/questionnaire/static/js/main.7057846f.js.map",
+    "280.39f51b74.chunk.css.map": "/questionnaire/static/css/280.39f51b74.chunk.css.map",
+    "280.df77dbaa.chunk.js.map": "/questionnaire/static/js/280.df77dbaa.chunk.js.map",
+    "980.ad0626a0.chunk.css.map": "/questionnaire/static/css/980.ad0626a0.chunk.css.map",
+    "980.2304ae24.chunk.js.map": "/questionnaire/static/js/980.2304ae24.chunk.js.map",
+    "453.687bfe29.chunk.js.map": "/questionnaire/static/js/453.687bfe29.chunk.js.map",
+    "705.ea259f8e.chunk.js.map": "/questionnaire/static/js/705.ea259f8e.chunk.js.map",
+    "325.573bb5a2.js.map": "/questionnaire/static/js/325.573bb5a2.js.map",
+    "572.ff01bbdd.chunk.js.map": "/questionnaire/static/js/572.ff01bbdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/325.573bb5a2.js",
+    "static/css/main.ce8130e9.css",
+    "static/js/main.7057846f.js"
+  ]
+}
